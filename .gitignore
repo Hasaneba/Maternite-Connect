@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.npm
+.yarn
+
+# Environment
+.env
+.env.local
+
+# Build
+dist/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+*.log
+
+# Lock files
+package-lock.json
+yarn.lock
